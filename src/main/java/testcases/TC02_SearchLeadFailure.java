@@ -11,7 +11,7 @@ public class TC02_SearchLeadFailure extends OpentapsWrappers{
 			@BeforeClass
 			public void startTestCase(){
 				browserName 	= "firefox";
-				dataSheetName 	= "TC02_SearchLeadFailure";
+				dataSheetName 	= "TC02_SearchLeadFail";
 				testCaseName 	= "TC02 - Search Lead (POM)";
 				testDescription = "Searching Leads For Failure Scenario in OpenTaps using POM framework";
 			}
